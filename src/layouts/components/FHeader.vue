@@ -4,7 +4,7 @@
             <el-icon class="mr-1">
                 <eleme-filled />
             </el-icon>
-            帝莎编程
+            cc商城
         </span>
         <el-icon class="icon-btn" @click="$store.commit('handleAsideWidth')">
             <fold v-if="$store.state.asideWidth == '250px'"/>
